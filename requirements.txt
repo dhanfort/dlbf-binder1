@@ -6,4 +6,3 @@ git+git://github.com/sevamoo/SOMPY.git #sompy
 pydivide
 matplotlib
 pandas
-random
