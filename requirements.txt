@@ -2,7 +2,8 @@
 # This 'requirements.txt' file is needed for the Binder implementation
 #
 numpy==1.14.5
-git+git://github.com/sevamoo/SOMPY.git #sompy
-pydivide
+#git+git://github.com/sevamoo/SOMPY.git #sompy
+sompy==1.1.1
+pydivide=0.2.15
 matplotlib
 pandas
