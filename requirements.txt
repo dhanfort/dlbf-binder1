@@ -3,7 +3,8 @@
 #
 numpy==1.14.5
 #git+git://github.com/sevamoo/SOMPY.git #sompy
-sompy==1.1.1
+git+https://github.com/sevamoo/SOMPY.git@659a5a0fca431c2496e28bd9db1e7137c474d570 #sompy
+#sompy==1.1.1
 pydivide==0.2.15
 matplotlib
 pandas
